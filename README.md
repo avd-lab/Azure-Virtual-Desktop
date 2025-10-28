@@ -110,4 +110,3 @@ After deploying Azure Virtual Desktop, you can manage it efficiently through the
 * **Monitor Performance** – Keep track of CPU, memory, and network usage.
 * **Scale Virtual Machines** – Adjust VM resources dynamically according to demand.
 * **Apply Updates** – Regularly install patches and security updates.
-* **Manage User Access** – Modify permissions to control user access levels.
