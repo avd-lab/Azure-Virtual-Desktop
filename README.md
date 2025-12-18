@@ -106,6 +106,3 @@ If you encounter problems while using Azure Virtual Desktop, these solutions may
 ## Managing Azure Virtual Desktop
 
 After deploying Azure Virtual Desktop, you can manage it efficiently through the Azure Portal.
-
-* **Monitor Performance** – Keep track of CPU, memory, and network usage.
-* **Scale Virtual Machines** – Adjust VM resources dynamically according to demand.
